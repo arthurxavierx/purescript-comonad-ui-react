@@ -1,5 +1,5 @@
 {
-  "name": "react",
+  "name": "purescript-comonad-ui-react",
   "ignore": [
     "**/.*",
     "node_modules",
@@ -8,8 +8,8 @@
   ],
   "dependencies": {
     "purescript-prelude": "^4.1.0",
-    "purescript-console": "^4.1.0",
-    "purescript-effect": "^2.0.0"
+    "purescript-comonad-ui": "https://github.com/arthurxavierx/purescript-comonad-ui.git#master",
+    "purescript-react": "^6.1.0"
   },
   "devDependencies": {
     "purescript-psci-support": "^4.0.0"
